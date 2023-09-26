@@ -24,3 +24,8 @@ mon: 9
 mday: 3
 term: 1
 ```
+
+## How to get the cookie
+This section hasn't finished yet.
+
+OK, now you can run it by double-clicking "start.bat".
