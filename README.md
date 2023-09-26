@@ -1,7 +1,7 @@
 # DustwindBot
 A QQ channel bot, which can provide me some functions. Personal use.
 
-I'm a CSU student。 This bot can remind me going to class.
+I'm a CSU student。 This bot can remind me attending the class.
 ## How to configure
 First, you should create a file called "config.yaml" and edit it as following below.
 ```yaml
