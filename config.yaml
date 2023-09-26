@@ -1,0 +1,16 @@
+# 这个文件是很重要的配置，请谨慎修改
+# 1.登录机器人所用的appid和token
+appid: "102021790"
+token: "JYjwZ5NbrtnNNiOH8UVsnn7j16lQ4eTX"
+
+# 2.管理员id，子频道id
+admin: "18056950939094559679"
+channel: "632882620"
+
+# 3.cookie
+cookie: "JSESSIONID=727BF963C96A082081D8D2CAAA633418; BIGipServero5E8DA9Hppp9PO46RpPJdw=!zOETtaNLBtQ8jYthDR2oAlGb+ywnCjh3JV2YVglDPPdC6duIfzb5i+dvAN/m7Xt7Vl17IUUPLX7Gcs0="
+# 4.学期开始 term:1代表上学期，2代表下学期
+year: 2023
+mon: 9
+mday: 3
+term: 1
